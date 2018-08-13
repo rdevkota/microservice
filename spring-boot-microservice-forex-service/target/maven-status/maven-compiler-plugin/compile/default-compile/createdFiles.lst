@@ -1,0 +1,4 @@
+com/microservice/forexservice/ForexServiceApplication.class
+com/microservice/forexservice/ExchangeValue.class
+com/microservice/forexservice/ForexController.class
+com/microservice/forexservice/ExchangeValueRepository.class
